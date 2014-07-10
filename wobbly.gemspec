@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Wobbly::VERSION
   spec.authors       = ["Eric Roberts"]
   spec.email         = ["ericroberts@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Why be constant when you can be wobbly?"
+  spec.description   = "Ever wanted to just get or define a constant (or chain of constants)? Now you can."
+  spec.homepage      = "https://github.com/ericroberts/wobbly"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
